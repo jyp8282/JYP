@@ -15,5 +15,5 @@ https://www.youtube.com/watch?v=KF6t61yuPCY
 </a>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{JYP}"/>
+  <img src="https://render.gitanimals.org/farms/jyp8282"/>
 </a>
